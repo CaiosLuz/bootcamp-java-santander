@@ -1,3 +1,4 @@
+package edu.caio.metodos;
 public class Metodo {
 
     // Definimos como void pois não será retornado nenhum valor
