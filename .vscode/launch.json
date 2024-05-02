@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeTwo",
+            "request": "launch",
+            "mainClass": "AboutMeTwo",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "Metodo",
+            "request": "launch",
+            "mainClass": "edu.caio.metodos.Metodo",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "OperadorLogico",
+            "request": "launch",
+            "mainClass": "edu.caio.operadores.OperadorLogico",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "OperadorRelacional",
+            "request": "launch",
+            "mainClass": "edu.caio.operadores.OperadorRelacional",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "edu.caio.operadores.OperadorTernario",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "edu.caio.operadores.OperadorUnario",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.caio.operadores.Operadores",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "TipoVariaveis",
+            "request": "launch",
+            "mainClass": "edu.caio.variaveis.TipoVariaveis",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
+            "name": "Variaveis",
+            "request": "launch",
+            "mainClass": "edu.caio.variaveis.Variaveis",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        }
+    ]
+}
