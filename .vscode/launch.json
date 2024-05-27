@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "bootcamp-java-santander_fc040da7"
+        },
+        {
+            "type": "java",
             "name": "AboutMeTwo",
             "request": "launch",
             "mainClass": "AboutMeTwo",
